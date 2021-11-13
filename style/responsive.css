@@ -1,0 +1,17 @@
+@media screen and (max-width: 800px) {
+  header .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .button {
+    margin-top: 5px;
+  }
+
+  .overlay .popup {
+    margin-left: 0;
+    margin-top: 30%;
+    margin-bottom: 5%;
+    width: 100%;
+  }
+}
